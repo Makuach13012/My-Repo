@@ -5,5 +5,10 @@ int main()
 {
   cout << "Hello world";
 return 0;
-}
 
+
+int a = 3, b = 5, c = 6;
+int sum = a + b + c;
+cout << "sum = " << sum;
+return 0;
+}
