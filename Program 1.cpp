@@ -23,4 +23,11 @@ return 0;
     cout<<"sizeof(char) is "<<sizeof(char)<<" bytes "<<endl;
     cout<<"sizeof(short) is "<<sizeof(short)<<" bytes "<<endl;
 return 0;
+
+for(i=1; i<=3; i++ ){
+for (j=1; j<=3; j++);
+cout << "i*j;
+  }
+cout << "\n";
+return 0;
 }
