@@ -17,4 +17,10 @@ float C;
 C = 5/9*(F-32);
 cout << "temperature in C"<< C;
 return 0;
+
+  char var;
+    cout<<"sizeof(char) is "<<sizeof(var)<<" bytes "<<endl;
+    cout<<"sizeof(char) is "<<sizeof(char)<<" bytes "<<endl;
+    cout<<"sizeof(short) is "<<sizeof(short)<<" bytes "<<endl;
+return 0;
 }
