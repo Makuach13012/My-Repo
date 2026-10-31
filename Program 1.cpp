@@ -13,10 +13,6 @@ cout << "sum = " << sum;
 return 0;
 
 
-
-
-int main()
-{
     cout << "Hello, welcome to Fop 1" <<endl;
     cout << "Please enter your ID: ";
 
