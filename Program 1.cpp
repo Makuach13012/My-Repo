@@ -13,13 +13,9 @@ cout << "sum = " << sum;
 return 0;
 
 
-    cout << "Hello, welcome to Fop 1" <<endl;
-    cout << "Please enter your ID: ";
-
-    int id;
-    cin >> id;
-
-    cout << "Your ID is: " << id << endl;
-
-    return 0;
+   float F = 10;
+float C;
+C = 5/9*(F-32);
+cout << "temperature in C"<< C;
+return 0;
 }
